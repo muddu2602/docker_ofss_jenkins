@@ -1,5 +1,5 @@
 HELP.md
-target/
+# target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -7,7 +7,7 @@ target/
 ### STS ###
 .apt_generated
 .classpath
-.factorypath
+.factorypathgot
 .project
 .settings
 .springBeans
